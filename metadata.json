@@ -1,0 +1,5 @@
+{
+  "name": "Diyabet Takipçisi",
+  "description": "Tip 1 diyabetli bireyler için kan şekeri, insülin ve karbonhidrat alımını takip etmeye yönelik kapsamlı bir uygulama. Verileri analiz edin, raporlar oluşturun ve sağlık uzmanınızla kolayca paylaşın.",
+  "requestFramePermissions": []
+}
